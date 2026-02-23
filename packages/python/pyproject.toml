@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "minions-orders"
-version = "0.1.0"
+version = "0.2.0"
 description = "Order records, service selections, onboarding checklists, and invoices"
 readme = "README.md"
 license = { text = "MIT" }
