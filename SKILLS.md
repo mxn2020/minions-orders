@@ -1,6 +1,12 @@
 ---
 name: minions-orders
-description: Order records, service selections, onboarding checklists, and invoices
+id: OC-0134
+version: 1.0.0
+description: "Order records, service selections, onboarding checklists, and invoices"
+category: ai
+subcategory: general
+tags: ["minion", "ai", "general"]
+comments:
 ---
 
 # minions-orders — Agent Skills
