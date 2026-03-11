@@ -1,0 +1,8 @@
+name: "@minions-orders/cli"
+project_scope: child
+child_type: cli
+parent_project: minions-orders-workspace
+description: "CLI for minions-orders — Order records, service selections, onboarding checklists, and invoices"
+priority: high
+deploy_url: null
+tags: null
